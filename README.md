@@ -1,14 +1,4 @@
-.github/workflows
 
-
-pacman.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
 
 <br clear="both">
 
