@@ -1,5 +1,3 @@
-
-
 <br clear="both">
 
 <h1 align="left">Hey 👋 , My Name is Mohamed Abdelaziem</h1>
