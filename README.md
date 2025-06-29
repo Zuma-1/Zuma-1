@@ -109,6 +109,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zuma-1/Zuma-1/output/snake.svg" alt="Snake animation" />
 
 ###
